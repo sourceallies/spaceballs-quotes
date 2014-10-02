@@ -1,1 +1,1 @@
-Checkout out https://sourceallies.github.com/spaceballs-quotes
+Checkout out http://sourceallies.github.io/spaceballs-quotes
